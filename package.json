@@ -1,0 +1,22 @@
+{
+  "name": "microverse-hello-project",
+  "version": "1.0.0",
+  "description": "microverse hello project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulisesedu7/Microverse-Hello-Project.git"
+  },
+  "author": "Ulises",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulisesedu7/Microverse-Hello-Project/issues"
+  },
+  "homepage": "https://github.com/ulisesedu7/Microverse-Hello-Project#readme",
+  "devDependencies": {
+    "hint": "^6.1.11"
+  }
+}
